@@ -1,0 +1,7 @@
+Relevant links for completing the project:
+
+Github:
+https://github.com/Achraf-OC/udacity_data_scientist_project_1
+
+Medium:
+https://medium.com/@achraf_3282/this-indicator-will-make-you-rethink-gdp-estimations-b4a3f9d9fbfd
